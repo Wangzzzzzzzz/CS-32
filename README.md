@@ -8,7 +8,6 @@ CS 32 Spring 2018, instructor: David Smallberg
 | HW 3 | 100 | 
 | HW 4 | 100 | 
 | HW 5 | 100 | 
-| HW 6 | 100 | 
 
 
 | project number | score |

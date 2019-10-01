@@ -18,5 +18,3 @@ CS 32 Spring 2018, instructor: David Smallberg
 | Proj 2 | 100 | 
 | Proj 3 | 100 | 
 | Proj 4 | 100 | 
-
-* IMPORTANT: the question prompts may be different for each quarter, and directly copying this repository can result in bad consequences.

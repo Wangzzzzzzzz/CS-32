@@ -1,6 +1,8 @@
 # CS-32
 CS 32 Spring 2018, instructor: David Smallberg
 
+* IMPORTANT: This repository contains only my own codes and NO prompt! The question prompts may be different for each quarter, and directly copying codes from this repository can result in bad consequences.
+
 | homwork number | score |
 |------|-------|
 | HW 1 | 100 | 
